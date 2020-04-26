@@ -6,8 +6,7 @@ public class Main {
 
     public static void main(String[] args) {
 	// write your code here
-        Date now = new Date();
-        System.out.println(now);
+        System.out.println("Hello World");
 
     }
 }
